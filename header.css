@@ -1,0 +1,10 @@
+@media screen and (min-width: 1024px) {
+    /* Código omitido */
+  
+    .opções_botão:checked ~ .lista-menu {
+      display: block;
+      width: auto;
+    }
+  
+    /* Código omitido */
+  }
